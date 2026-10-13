@@ -1,0 +1,42 @@
+[
+  {
+    "model": "image_baseline",
+    "C": 0.01,
+    "validation_macro_f1": 0.6725635976509228
+  },
+  {
+    "model": "image_baseline",
+    "C": 0.1,
+    "validation_macro_f1": 0.7139920991686703
+  },
+  {
+    "model": "image_baseline",
+    "C": 1.0,
+    "validation_macro_f1": 0.7117033230113301
+  },
+  {
+    "model": "image_baseline",
+    "C": 10.0,
+    "validation_macro_f1": 0.7137105766427854
+  },
+  {
+    "model": "transfer_resnet18",
+    "C": 0.01,
+    "validation_macro_f1": 0.8549824940508184
+  },
+  {
+    "model": "transfer_resnet18",
+    "C": 0.1,
+    "validation_macro_f1": 0.8060037848691909
+  },
+  {
+    "model": "transfer_resnet18",
+    "C": 1.0,
+    "validation_macro_f1": 0.7972877235540665
+  },
+  {
+    "model": "transfer_resnet18",
+    "C": 10.0,
+    "validation_macro_f1": 0.8130120624937242
+  }
+]

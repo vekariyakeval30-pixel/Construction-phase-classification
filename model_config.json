@@ -1,0 +1,14 @@
+{
+  "labels": [
+    "stage_1",
+    "stage_2",
+    "stage_3",
+    "stage_4"
+  ],
+  "selected_model": "transfer_resnet18",
+  "seed": 42,
+  "encoder": "ResNet18_Weights.IMAGENET1K_V1",
+  "baseline_features": 153,
+  "transfer_features": 512,
+  "note": "Original folder labels are authoritative; probabilities are uncalibrated."
+}
