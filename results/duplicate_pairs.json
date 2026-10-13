@@ -1,0 +1,237 @@
+[
+  {
+    "first": "train/stage_4/stage_4_000013.JPEG",
+    "second": "train/stage_4/stage_4_000086.JPEG",
+    "phash_distance": 4
+  },
+  {
+    "first": "val/stage_2/stage_2_000016.JPEG",
+    "second": "val/stage_2/stage_2_000034.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_2/stage_2_000036.JPEG",
+    "second": "val/stage_2/stage_2_000039.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_2/stage_2_000028.JPEG",
+    "second": "val/stage_2/stage_2_000050.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "train/stage_2/stage_2_000059.JPEG",
+    "second": "val/stage_2/stage_2_000094.JPEG",
+    "phash_distance": 2
+  },
+  {
+    "first": "val/stage_3/stage_3_000003.JPEG",
+    "second": "val/stage_3/stage_3_000007.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000008.JPEG",
+    "second": "val/stage_3/stage_3_000009.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000004.JPEG",
+    "second": "val/stage_3/stage_3_000010.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000011.JPEG",
+    "second": "val/stage_3/stage_3_000012.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000018.JPEG",
+    "second": "val/stage_3/stage_3_000027.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000032.JPEG",
+    "second": "val/stage_3/stage_3_000037.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000034.JPEG",
+    "second": "val/stage_3/stage_3_000038.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000035.JPEG",
+    "second": "val/stage_3/stage_3_000039.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000014.JPEG",
+    "second": "val/stage_3/stage_3_000040.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000026.JPEG",
+    "second": "val/stage_3/stage_3_000043.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000004.JPEG",
+    "second": "val/stage_3/stage_3_000046.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000010.JPEG",
+    "second": "val/stage_3/stage_3_000046.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000018.JPEG",
+    "second": "val/stage_3/stage_3_000048.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000027.JPEG",
+    "second": "val/stage_3/stage_3_000048.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000042.JPEG",
+    "second": "val/stage_3/stage_3_000058.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000028.JPEG",
+    "second": "val/stage_3/stage_3_000075.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000020.JPEG",
+    "second": "val/stage_3/stage_3_000092.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_3/stage_3_000072.JPEG",
+    "second": "val/stage_3/stage_3_000097.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000001.JPEG",
+    "second": "val/stage_4/stage_4_000006.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000009.JPEG",
+    "second": "val/stage_4/stage_4_000011.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000010.JPEG",
+    "second": "val/stage_4/stage_4_000013.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000010.JPEG",
+    "second": "val/stage_4/stage_4_000024.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000013.JPEG",
+    "second": "val/stage_4/stage_4_000024.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000022.JPEG",
+    "second": "val/stage_4/stage_4_000025.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000019.JPEG",
+    "second": "val/stage_4/stage_4_000027.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000014.JPEG",
+    "second": "val/stage_4/stage_4_000030.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000031.JPEG",
+    "second": "val/stage_4/stage_4_000037.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000026.JPEG",
+    "second": "val/stage_4/stage_4_000043.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000019.JPEG",
+    "second": "val/stage_4/stage_4_000048.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000027.JPEG",
+    "second": "val/stage_4/stage_4_000048.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000021.JPEG",
+    "second": "val/stage_4/stage_4_000049.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000008.JPEG",
+    "second": "val/stage_4/stage_4_000051.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000023.JPEG",
+    "second": "val/stage_4/stage_4_000053.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000047.JPEG",
+    "second": "val/stage_4/stage_4_000060.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000004.JPEG",
+    "second": "val/stage_4/stage_4_000065.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000029.JPEG",
+    "second": "val/stage_4/stage_4_000068.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000032.JPEG",
+    "second": "val/stage_4/stage_4_000075.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000039.JPEG",
+    "second": "val/stage_4/stage_4_000076.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000035.JPEG",
+    "second": "val/stage_4/stage_4_000081.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000014.JPEG",
+    "second": "val/stage_4/stage_4_000083.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000030.JPEG",
+    "second": "val/stage_4/stage_4_000083.JPEG",
+    "phash_distance": 0
+  },
+  {
+    "first": "val/stage_4/stage_4_000017.JPEG",
+    "second": "val/stage_4/stage_4_000088.JPEG",
+    "phash_distance": 0
+  }
+]
