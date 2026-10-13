@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.cache/
+data/train/
+data/val/
+data/source_manifest.json
+models/resnet18-imagenet.pth
+results/feature_cache.npz
+*.log
